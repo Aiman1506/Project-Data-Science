@@ -67,8 +67,8 @@ README.md
 
 ## 📈 Results
 
-* **Best Model:** `_________` (replace with your best model)
-* **Accuracy Achieved:** `_____%`
+* **Best Model:** `0.9868131868131869` (replace with your best model)
+* **Accuracy Achieved:** `0.9736842105263158%`
 * **Key Insights:**
 
   * (Add a few key observations or conclusions)
