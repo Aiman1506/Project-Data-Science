@@ -96,6 +96,6 @@ README.md
 
 For questions, collaborations, or demo requests:
 
-**[ummeaimanlalkot@gmail.com](mailto:ummeaimanlalkot@gmail.com)**
+**[ummeaiman1506@gmail.com](mailto:ummeaimanlalkot@gmail.com)**
 
 *"Transforming data into decisions with intelligence."* 💡
