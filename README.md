@@ -1,99 +1,101 @@
 # Project-Data-Science
-📊 Project 1: Classification Model
-📋 Project Overview
-This project focuses on building and evaluating a classification model using supervised machine learning techniques. The aim is to classify given data into appropriate categories and analyze model performance based on accuracy, precision, recall, and other relevant metrics.
+# 📊 Project 1: Classification Model
 
-⚙️ Technologies Used
-Python 🐍
+## 📋 Project Overview
 
-Jupyter Notebook 📓
+This project focuses on building and evaluating a **classification model** using supervised machine learning techniques. The aim is to classify given data into appropriate categories and analyze model performance based on accuracy, precision, recall, and other relevant metrics.
 
-Libraries:
+---
 
-pandas
+## ⚙️ Technologies Used
 
-numpy
+* Python 🐍
+* Jupyter Notebook 📓
+* Libraries:
 
-matplotlib / seaborn (for visualization)
+  * pandas
+  * numpy
+  * matplotlib / seaborn (for visualization)
+  * scikit-learn (for modeling)
 
-scikit-learn (for modeling)
+---
 
-📂 Project Structure
-scss
-Copy
-Edit
+## 📂 Project Structure
+
+```
 Project 1(Classification).ipynb
 README.md
-🛠️ Steps Followed
-1️⃣ Data Loading and Exploration
-Loaded dataset using pandas.
+```
 
-Performed Exploratory Data Analysis (EDA).
+---
 
-Visualized data distributions and relationships.
+## 🛠️ Steps Followed
 
-2️⃣ Data Preprocessing
-Handled missing values.
+### 1️⃣ Data Loading and Exploration
 
-Converted categorical variables using encoding.
+* Loaded dataset using pandas.
+* Performed Exploratory Data Analysis (EDA).
+* Visualized data distributions and relationships.
 
-Scaled/standardized numerical features.
+### 2️⃣ Data Preprocessing
 
-3️⃣ Model Building
-Split the dataset into train and test sets.
+* Handled missing values.
+* Converted categorical variables using encoding.
+* Scaled/standardized numerical features.
 
-Implemented multiple classification algorithms:
+### 3️⃣ Model Building
 
-Logistic Regression
+* Split the dataset into train and test sets.
+* Implemented multiple classification algorithms:
 
-Decision Tree Classifier
+  * Logistic Regression
+  * Decision Tree Classifier
+  * Random Forest Classifier
+  * (Add others if used)
 
-Random Forest Classifier
+### 4️⃣ Model Evaluation
 
-(Add others if used)
+* Evaluated models using:
 
-4️⃣ Model Evaluation
-Evaluated models using:
+  * Accuracy Score
+  * Confusion Matrix
+  * Classification Report
+  * ROC-AUC Curve (if applicable)
+* Selected the best-performing model.
 
-Accuracy Score
+---
 
-Confusion Matrix
+## 📈 Results
 
-Classification Report
+* **Best Model:** `_________` (replace with your best model)
+* **Accuracy Achieved:** `_____%`
+* **Key Insights:**
 
-ROC-AUC Curve (if applicable)
+  * (Add a few key observations or conclusions)
 
-Selected the best-performing model.
+---
 
-📈 Results
-Best Model: _________ (replace with your best model)
+## 🚀 How to Run
 
-Accuracy Achieved: _____%
+1. Clone the repository.
+2. Install required libraries:
 
-Key Insights:
+   ```
+   pip install pandas numpy matplotlib seaborn scikit-learn
+   ```
+3. Open the notebook:
 
-(Add a few key observations or conclusions)
+   ```
+   jupyter notebook Project\ 1(Classification).ipynb
+   ```
+4. Run step-by-step to reproduce results.
 
-🚀 How to Run
-Clone the repository.
+---
 
-Install required libraries:
+## 📬 Contact
 
-nginx
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn scikit-learn
-Open the notebook:
-
-scss
-Copy
-Edit
-jupyter notebook Project\ 1(Classification).ipynb
-Run step-by-step to reproduce results.
-
-📬 Contact
 For questions, collaborations, or demo requests:
 
-ummeaimanlalkot@gmail.com
+**[ummeaimanlalkot@gmail.com](mailto:ummeaimanlalkot@gmail.com)**
 
-"Transforming data into decisions with intelligence." 💡
+*"Transforming data into decisions with intelligence."* 💡
